@@ -1,0 +1,101 @@
+:root {
+    font-size: 62.5%;
+}
+
+html {
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.about-meet h1 {
+    font-size: 4rem;
+    font-weight: 900;
+    line-height: 4.4rem;
+    color: hsla(239, 21%, 20%, 1);
+}
+
+.about-meet p {
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 2.6rem;
+    color: hsla(239, 10%, 57%, 1);
+}
+
+.download-meet {
+    font-size: 1.6rem;
+    font-weight: 900;
+    line-height: 2.6rem;
+    color: hsla(0, 0%, 100%, 1);
+    background-color: hsla(192, 37%, 48%, 1);
+}
+
+.download-meet span {
+    font-size: 1.6rem;
+    font-weight: 900;
+    line-height: 2.6rem;
+    color: hsla(192, 90%, 77%, 1);
+}
+
+.what-is-meet {
+    font-size: 1.6rem;
+    font-weight: 900;
+    line-height: 2.6rem;
+    color: hsla(0, 0%, 100%, 1);
+    background-color: hsla(267, 34%, 53%, 1);
+}
+
+.page-separator h4 {
+    font-size: 1.6rem;
+    font-weight: 900;
+    line-height: 2.6rem;
+    color: hsla(240, 10%, 57%, 1);
+}
+
+.meet-features-overview h3 {
+    font-size: 1.6rem;
+    font-weight: 900;
+    line-height: 2.6rem;
+    color: hsla(192, 37%, 48%, 1);
+}
+
+.meet-features-overview h2 {
+    font-size: 3.2rem;
+    font-weight: 900;
+    line-height: 3.6rem;
+    color: hsla(239, 21%, 20%, 1);
+}
+
+.meet-features-overview p {
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 2.6rem;
+    color: hsla(239, 10%, 57%, 1);
+}
+
+footer h2 {
+    font-size: 3.2rem;
+    font-weight: 900;
+    line-height: 3.6rem;
+    color: hsla(0, 0%, 98%, 1);
+}
+
+footer p {
+    font-size: 1.8rem;
+    font-weight: 500;
+    line-height: 2.6rem;
+    color: hsla(0, 0%, 98%, 1);
+}
+
+.footer-download-meet {
+    font-size: 1.6rem;
+    font-weight: 900;
+    line-height: 2.6rem;
+    color: hsla(0, 0%, 100%, 1);
+    background-color: hsla(268, 34%, 53%, 1);
+}
+
+.footer-download-meet span {
+    font-size: 1.6rem;
+    font-weight: 900;
+    line-height: 2.6rem;
+    color: hsla(268, 100%, 86%, 1);
+}
